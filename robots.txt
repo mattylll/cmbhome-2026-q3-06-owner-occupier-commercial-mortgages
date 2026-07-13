@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cmbhome-2026-q3-06-owner-occupier-commercial-mortgages.zeabur.app/sitemap.xml
